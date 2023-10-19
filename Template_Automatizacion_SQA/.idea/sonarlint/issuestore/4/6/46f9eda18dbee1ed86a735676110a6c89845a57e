@@ -1,0 +1,6 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±•–¬8ÆâÜªŒ1
+g
+java:S1854"ERemove this useless assignment to local variable "respuestaEsperada".(şÙï“üÿÿÿÿ8ÈâÜªŒ1
+X
+java:S1481"6Remove this unused "respuestaEsperada" local variable.(şÙï“üÿÿÿÿ8ËâÜªŒ1
